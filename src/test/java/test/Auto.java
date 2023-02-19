@@ -5,7 +5,7 @@ public class Auto
     int precio;
     Asiento [] asientos;
     String marca;
-    Motor [] motor;
+    Motor motor;
     int registro;
     static int cantidadCreados;
 
